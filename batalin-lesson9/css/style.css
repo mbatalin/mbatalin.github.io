@@ -1,0 +1,14 @@
+#six_icons img {
+	margin-top: 20px;
+	height: 128px;
+	width: 128px;
+}
+.big_box {
+	margin-top: 50px;
+	height: 100px;
+	border: 2px solid #000;
+}
+.inbox {
+	height: 50px;
+	background-color: green
+}
